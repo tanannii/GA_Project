@@ -2,10 +2,16 @@
 
 ### Overview
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process.
-There was a change in format for SAT in 2016. Math is now taking a bigger weightage. Unlike ACT, SAT do not have a Science section. Hence, Math results influence SAT score much more than ACT.
+There was a change in format for SAT in 2016. Math is now taking a bigger weightage. Hence, Math results influence SAT score much more than ACT.
 
 ### Problem Statement
-With the change in SAT's format in 2016, was there a change in participation rate? Also, did the focus in Math encouraged mathmatically strong students to opt for SAT?
+Was this decision beneficial for College Board in its competition against ACT Inc. in its fight for market share? 
+
+     - Did this decision cause any change in SAT participation rate?
+
+     - Did this decision encourage students strong in Mathematics to sit for SAT?
+
+     - Did these students switch over to SAT and abandon ACT? Or did they take both tests?
 
 ### Data Dictionary
 |Feature|Type|Dataset|Description|
