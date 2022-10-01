@@ -4,7 +4,7 @@
 The SAT and ACT are standardized tests that many colleges and universities in the United States require for their admissions process.
 There was a change in format for SAT in 2016. Math is now taking a bigger weightage. Unlike ACT, SAT do not have a Science section. Hence, Math results influence SAT score much more than ACT.
 
-### Problem Statment
+### Problem Statement
 With the change in SAT's format in 2016, was there a change in participation rate? Also, did the focus in Math encouraged mathmatically strong students to opt for SAT?
 
 ### Data Dictionary
@@ -42,8 +42,13 @@ With the change in SAT's format in 2016, was there a change in participation rat
 
 
 ### Conclusions/recommendations
-The new SAT format has attracted more students and has increased the participation rate. On the other hand, participation rate for ACT has dropped.
+The new SAT format has attracted more students and has increased the participation rate. 
+On the other hand, participation rate for ACT has dropped.
+However, we do see a greater proportion of students who take both SAT and ACT.
 
-Although the average score of SAT has dropped, the median score of SAT has increased slightly. Looking at the details of the score, on the whole, scores for Math has improved. This could signal that more mathematically strong students are attracted by the change in format, and have decided to try SAT (instead of ACT).
+Although the average score of SAT has dropped, the median score of SAT has increased slightly.
 
-To gain further insights, we should also look into which states has the biggest change in SAT's participation rate. Analyzing this group of data might help to find stronger signals on the impact of the change in SAT format. 
+Looking at the details of the score, on the whole, scores for Math has improved. 
+This could signal that more mathematically strong students are attracted by the change in format, and have decided to try SAT (instead of ACT). 
+
+States who used to participate mainly in ACT, is now taking up SAT. Students are choosing to take up SAT (on top of ACT) to have a chance in both. 
